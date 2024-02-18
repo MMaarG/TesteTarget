@@ -57,7 +57,7 @@ namespace TesteTarget
         {
 
             // Caminho do arquivo JSON
-            string Arquivo = "C:\\Users\\saran\\source\\repos\\TestedaTarget\\dados.json";
+            string Arquivo = "dados.json";
 
             // Verifica se o arquivo existe
             if (File.Exists(Arquivo))
